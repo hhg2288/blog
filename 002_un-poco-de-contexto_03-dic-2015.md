@@ -1,3 +1,4 @@
+  
 # Día 1: Un poco de contexto
 
 Ayer leyendo el post me di cuenta que puede ser interesante antes de empezar a hablar sobre el libro, comentar que herramientas estoy usando ahora para “organizarme mejor”. Creo que esto es muy personal, con lo cual espero que lo tomen como un ejemplo y no como algo que le puede funcionar a todos.
@@ -10,6 +11,8 @@ Herramientas vamos al grano, esto es lo que utilizo ahora:
 - Timeneye
 - Rescuetime
 - Pomodoro
+
+  
 
 
 ##Listado de Horas Disponibles por mes
